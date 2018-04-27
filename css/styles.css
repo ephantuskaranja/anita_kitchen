@@ -1,3 +1,11 @@
 #logo {
     background-image: url(../images/landing.jpg);
 }
+#breakfast{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+#footer{
+    background-color: #F15A29;
+}
