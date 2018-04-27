@@ -2,6 +2,8 @@
     background-image: url(../images/landing.jpg);
     text-align: center;
     color: white;
+    height: 636px;
+    width: 1400px;
 }
 #breakfast{
     position: relative;
