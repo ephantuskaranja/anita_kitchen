@@ -1,5 +1,7 @@
 #logo {
     background-image: url(../images/landing.jpg);
+    text-align: center;
+    color: white;
 }
 #breakfast{
     position: relative;
