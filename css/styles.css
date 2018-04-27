@@ -3,12 +3,35 @@
     text-align: center;
     color: white;
     height: 636px;
-    width: 1400px;
 }
+.happytime{
+    height: 210px;
+}
+
+#happy{
+    text-align: center;
+}
+#party{
+    text-align: center;
+}
+
 #breakfast{
-    position: relative;
+    background-image: url("../images/foodtop/breakfast.jpg");
     text-align: center;
     color: white;
+    height: 210px;
+}
+#lunch{
+    background-image: url("../images/foodtop/lunch.jpg");
+    color: white;
+    text-align: center;
+    height: 210px;
+}
+#dinner{
+    background-image: url("../images/foodtop/dinner.jpg");
+    color: white;
+    text-align: center;
+    height: 210px;
 }
 #footer{
     background-color: #F15A29;
@@ -42,4 +65,6 @@
 #party{
     color: white;
     background-color: #F15A29;
+    height: 105;
+    text-align: center;
 }
