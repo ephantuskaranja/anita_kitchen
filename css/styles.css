@@ -17,6 +17,18 @@
     color: white;
 }
 #in{
-    background-color:rgba(0,0,0,0);
-    
+    background-color:rgba(176,174,174,0.35);
+    border: none;
+    outline: none;
+}
+#btn{
+    background-color: #F15A29;
+    border: none;
+    outline: none;
+}
+#customer1{
+    color: #F15A29;
+}
+#customer2{
+    color: #F15A29;
 }
