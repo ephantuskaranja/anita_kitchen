@@ -13,4 +13,6 @@
 #subscribe {
     background-image: url(../images/subscribe.jpg);
     height: 301px;
+    text-align: center;
+    color: white;
 }
