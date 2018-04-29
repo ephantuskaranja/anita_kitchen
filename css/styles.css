@@ -36,6 +36,7 @@
 #footer{
     background-color: #F15A29;
     text-align: center;
+    color: white;
 }
 #subscribe {
     background-image: url(../images/subscribe.jpg);
@@ -61,10 +62,50 @@
 }
 #bg{
     background-image: url(../images/foodsBg.jpg);
+    height: 599px;
 }
 #party{
     color: white;
     background-color: #F15A29;
-    height: 105;
     text-align: center;
+    height: 105px;
+}
+a {
+    color: #F15A29;
+}
+#no{
+    padding: 0px;
+    margin: 0px;
+    height: 210px;
+}
+#footlog{
+    float: center;
+}
+#menu{
+    text-align: center;
+}
+/* Add a grey background color to the top navigation */
+.topnav {
+    background-color: grey;
+    overflow: hidden;
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: white;
+    color: #F15A29;
+}
+#panel{
+    padding: 20px;
+}
+#cb{
+    height: 220px;
+
+}
+#bb{
+    height: 220px;
+
+}
+#cp{
+    height: 220px;
+
 }
