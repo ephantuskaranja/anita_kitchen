@@ -134,12 +134,10 @@ a {
 #top{
     padding-top: 0px;
 }
-#gly{
-    float: left;
-}
+
 .sidenav {
     height: 100%;
-    width: 0;
+    width: 0px;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -169,4 +167,7 @@ a {
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+   }
+   #lorem{
+       text-align: right;
    }
