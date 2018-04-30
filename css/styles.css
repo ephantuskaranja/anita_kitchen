@@ -60,7 +60,7 @@
 #customer2{
     color: #F15A29;
 }
-#bg{
+.bg{
     background-image: url(../images/foodsBg.jpg);
     height: 599px;
 }
