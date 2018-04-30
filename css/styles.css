@@ -117,17 +117,22 @@ a {
 }
 #drink{
     border-style: groove;
+    background-color: lightgray;
+    border-top-style: none;
 }
 #chick{
-    border-top-style: groove;
+    border-top-style: none;
     border-bottom-style: groove;
+    background-color: lightgray;
 }
 #rice{
     border-style: groove;
     margin-bottom: 30px;
+    background-color: lightgray;
+    border-top-style: none;
 }
 #top{
-    vertical-align: text-bottom;
+    padding-top: 0px;
 }
 #gly{
     float: left;
