@@ -111,3 +111,29 @@ a {
     color: white;
     border-width:.4em 0 .4em .4em;
 }
+#contfood{
+    text-align: center;
+    padding-top: 80px;
+}
+#drink{
+    border-style: groove;
+}
+#chick{
+    border-top-style: groove;
+    border-bottom-style: groove;
+}
+#rice{
+    border-style: groove;
+    margin-bottom: 30px;
+}
+#top{
+    vertical-align: text-bottom;
+}
+#gly{
+    float: left;
+}
+.sidenav{
+    height: auto;
+    width: 160px;
+    background-color: #111;
+}
