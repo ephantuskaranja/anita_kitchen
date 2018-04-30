@@ -97,15 +97,17 @@ a {
 #panel{
     padding: 20px;
 }
-#cb{
-    height: 220px;
-
-}
-#bb{
-    height: 220px;
-
-}
-#cp{
-    height: 220px;
-
+#chevleft{
+    height: 60px;
+    width: 200px;
+    background-color: #F15A29;
+    color: white;
+    border-width:.4em 0 .4em .4em;
+}  
+#rightchev{
+    height: 60px;
+    width: 200px;
+    background-color: #F15A29;
+    color: white;
+    border-width:.4em 0 .4em .4em;
 }
